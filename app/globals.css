@@ -146,3 +146,10 @@ word-break: break-all;
   scrollbar-width: none; /* Firefox */
 }
 
+.bg-auth-light {
+  background-image: url(/assets/images/auth-light.png);
+}
+
+.bg-auth-dark {
+  background-image: url(/assets/images/auth-dark.png);
+}
